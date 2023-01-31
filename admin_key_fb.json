@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "torrentbotserver",
+  "private_key_id": "c1a2c8e7a27c4695776e447f07448ab9a4b698a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDWKJLXn8w1PVLn\n8cSnskpsW+/SOiSNLNP1/TOYZ2xslwBo/1zqsJ/GUfZNMhvvS/2ZuyvowaJZlwGV\nOTGZQyEP9yc7ucIzndt7Wu/2mA0diJ0XTC+TpcoJA5BQ8S/2pKkPJSgqzvAyIgLM\n3HlR0AOA/4g5Sj/HXJUlQBAV0Sp/hd1zV7ovk8/9NX0RPrDNgnp9WgggdPxQHJjp\nPYi0j8EQeLrAyxz/LXUfsKqrMzo5WwdrxgfKn0oLwCqcK9Pz3ApTg6dvun7MxlrI\naFZ5x0xfBjiULdZKddAAkG4jW57byn3urmYCmb5qHBwvlm08sHp9G3Pgxk8Jyl6U\ncZsj5Fx9AgMBAAECggEANt7TbNLBGBz7unjsCYl5XxUZN7R0/ATx0/OJfjF1iscP\nsFdJX8pcTYxffnzpwmCme/aEdBD0v16c5bZvOlUEShppn3hjRSVbgFoW5IglyBzi\nHv+CqyJNxwx2M/7v6pJazIoZJgq6aSXksMeGgAs7cphGN2OKPtK+Vfp5hJWAfYZ/\nKynLtR1AJOocPOFSCTsQ3mAGgGUhKxwuq5r1D045pKgbNzBK3fjC/pqWi8p2jy0o\nG/hoH17Cn+Tx/n4OsiuOS1ltuM8Vo4/kj+1EfCoC54fe+nI05oZ7V66vH9GVNABJ\nfVebb/3ypI1J5lI7Vi8MoJ2UMCfJjoOB9CFYyz8y8wKBgQD6YERI6umCA80w2WRk\n+sAWdff7FewBuV/KQSYX5qcwvwt2MfiewEAXM8XpdVK1TByxiDI2CNKzyAAHzlUb\nHADcVWA4gjY4w1whLj3Z564zDb3JFGk71jZOvKf2+jXPTukmmZMPG43Py4K700KW\nDXN8oHTggBcGpGSwYn+nSclhawKBgQDa+AuxImDJDRfvS4ymiu1aFuek684eHZLg\ngz+E9I1fKOZQWJXMecQ2Gf8HhLKdzFMStNVh7rMqJ33Js2yzJy0gXUquvEp6Pmqg\ni2743PpW5QqHoN0i3MhiQqpF7KJI6c24TSt89lEpSRBFhr841dDRYTesTQ5cLEUp\nYQ7GoahrtwKBgQDUmaPCCv7msJWukhnmiOlM6TT9lrrFKARHuJRBHVEAWmjAH2SO\nYI7LZOH7/+yQF6YRtaV1Ln7Du+MSvciUcW3lqfU/ZonmHzT+08YfXtQTc+qgcN1+\nusF4kEdLt2CzvLzLUwKFhI8hUBydoqDay2cx/wnfi8SBllwNTkY45bXDKwKBgQC8\nsQGKTECxIEpe2HDE13U/q/tEADvncb6vIArtrLvio+EMnbnAsbGmmXJObUhqeLeh\nqBk1Qjg8fDmGRcrG+1yExj/kIbfgbcb+wAkKBYrotIkFZVcKgs1e92m5xff28xtm\n1YFDNxOrix2tfDduZ7qBo9AQ93oHbdLPnKbZ/lafMwKBgQDinSi/M1+Baxf3Zv3K\nDadoc/vAZPrqZ/qPfcCrS39adbWdzbt+aDiWqt1dKmeKOsFEe/74GW6GTDz4iePY\n9aePti428/FIv0rH4rhuh/7v9aFcxIrGxZ3cgSa81OwDAP+cSu8shpqk7XtdQ0gx\n1dJnLuuyWmnxGdUanr6d14Zq6A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-in98a@torrentbotserver.iam.gserviceaccount.com",
+  "client_id": "100410503117844803662",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-in98a%40torrentbotserver.iam.gserviceaccount.com"
+}
